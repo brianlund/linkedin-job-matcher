@@ -105,7 +105,7 @@ def on_end():
             print(f"  {link}")
         titles = ', '.join([title for title, _, _, _ in high_score_matches])
     else:
-        print("\n No strong matches (score ≥ 7) found this round.")
+        print("\n No strong matches (score >= 7) found.")
 
 
 # Setup logging and scraper
@@ -126,7 +126,7 @@ queries = [
         query='DevOps',
         options=QueryOptions(
             locations=['France'],
-            limit=60,
+            limit=15,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
                 time=TimeFilters.DAY,
