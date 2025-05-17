@@ -50,9 +50,6 @@ And here is the CV:
 
 How well does this CV match the job description? Give a bullet-point analysis, including strengths, gaps, and an overall match score from 1 to 10.
 
-Scoring notes:
-- Add 1 point if the job description is primarily written in English.
-- Subtract 1 point if the role is heavily focused on software development or programming (rather than DevOps, SRE, Infrastructure, or platform engineering).
 
 At the end, output only this line on a new line:
 
