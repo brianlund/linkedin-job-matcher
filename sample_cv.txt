@@ -1,0 +1,54 @@
+Senior Cloud & DevOps Engineer
+
+Phone: +XX XXX XXX XXX  
+Email: example@example.com  
+LinkedIn: https://www.linkedin.com/in/example-devops  
+Nationality: EU  
+Location: Barcelona, Spain – open to relocation
+
+Professional Experience
+
+Engineering Manager, DevOps | MedTech AI Solutions | 2021 – Present  
+- Designed a secure multi-region AWS architecture for machine learning workloads.  
+- Spearheaded platform reliability improvements, reducing production incidents by 70%.  
+- Introduced policy-as-code and automated compliance checks for regulated environments.  
+- Managed a team of 8 DevOps and SRE engineers across 3 time zones.  
+- Built cost forecasting tools integrating usage data with billing APIs.  
+- Integrated observability into the SDLC, improving deployment confidence and MTTR.
+
+Cloud Infrastructure Consultant | E-Commerce Scale-Up | 2023 – 2024  
+- Rebuilt legacy CI/CD from scratch using GitLab CI and Kubernetes-native tools.  
+- Migrated 50+ microservices from Heroku to EKS, improving resilience and scalability.  
+- Established GitOps practices and secrets management using HashiCorp Vault.  
+- Advised leadership on cloud budget allocation and autoscaling strategies.
+
+Head of Infrastructure | Social Media Analytics Platform | 2016 – 2021  
+- Transitioned infrastructure from VMs to container orchestration (Nomad, then Kubernetes).  
+- Designed event-driven pipelines using Kafka and AWS Lambda.  
+- Reduced infrastructure costs by 40% by rightsizing workloads and implementing Spot strategies.  
+- Developed centralized logging and alerting stack with Loki and Prometheus.
+
+DevOps Lead | EdTech SaaS Company | 2012 – 2016  
+- Introduced infrastructure-as-code with Ansible and Terraform.  
+- Led a monolith-to-services decomposition with automated build and deployment.  
+- Built internal tooling to support developers with self-service environments.
+
+Linux Systems Administrator | ISP & Hosting Providers | 2000 – 2012  
+- Maintained high-availability clusters using DRBD and Heartbeat.  
+- Tuned MySQL replication for media streaming workloads.  
+- Deployed RADIUS and LDAP solutions for user management across ISPs.
+
+Certifications  
+- Certified Kubernetes Administrator (CKA)  
+- AWS Certified DevOps Engineer – Professional  
+- Terraform Associate (HashiCorp)
+
+Languages  
+- English (Fluent)  
+- Spanish (Intermediate)  
+- French (Basic)
+
+Education  
+- BSc in Computer Systems Engineering  
+- ITIL v4 Foundations  
+
