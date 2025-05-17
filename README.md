@@ -1,4 +1,4 @@
-# AI CV Match (GPT-4)
+## AI CV Match (using GPT-4)
 
 A Python tool that scrapes LinkedIn job listings using [py-linkedin-jobs-scraper](https://github.com/spinlud/py-linkedin-jobs-scraper) and uses GPT-4 to score each job against your CV. At the end of a run, it highlights high-scoring matches.
 ---
